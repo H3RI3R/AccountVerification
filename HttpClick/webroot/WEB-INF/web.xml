@@ -10,7 +10,7 @@
     <servlet-name>OnClick</servlet-name>
     <url-pattern>/OnClick</url-pattern>
   </servlet-mapping>
-  <display-name>HttpClick</display-name>
+  <display-name>OnClick</display-name>
   <welcome-file-list>
     <welcome-file>index.html</welcome-file>
     <welcome-file>index.htm</welcome-file>
